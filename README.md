@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed for the Doctors Without Borders (DWB) track in a Datathon, focusing on conflict mapping and humanitarian response optimization. Using the [Armed Conflict Location and Event Data](https://acleddata.com/) (ACLED) dataset from 2018 to 2024, we aimed to create a comprehensive, data-driven solution to assist DWB in making informed decisions about the placement and movement of humanitarian workers. Our work integrates geospatial data, predictive analytics, and machine learning to enhance early warning systems, optimize resource allocation, and prioritize worker safety in volatile environments.
+This project was developed for the Doctors Without Borders (DWB) track as part of the 6th Annual Datathon for Social Good at UC Berkeley, focusing on conflict mapping and humanitarian response optimization. Using the [Armed Conflict Location and Event Data](https://acleddata.com/) (ACLED) dataset from 2018 to 2024, we aimed to create a comprehensive, data-driven solution to assist DWB in making informed decisions about the placement and movement of humanitarian workers. Our work integrates geospatial data, predictive analytics, and machine learning to enhance early warning systems, optimize resource allocation, and prioritize worker safety in volatile environments.
 
 ## Objectives
 - **Anticipatory Action:** Leverage ML models to predict areas at risk of increased conflict using historical and real-time ACLED data.
