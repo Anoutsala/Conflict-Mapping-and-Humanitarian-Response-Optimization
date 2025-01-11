@@ -11,4 +11,4 @@ This project was developed for the Doctors Without Borders (DWB) track as part o
 - **Data-Driven Early Warning System:** Build a robust system to provide timely insights into conflict escalation, enabling proactive resource distribution.
 
 ## Demos
-Conflict Density Overtime: (https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/conflict_density.html)
+[Conflict Density Overtime](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/conflict_density.html)
