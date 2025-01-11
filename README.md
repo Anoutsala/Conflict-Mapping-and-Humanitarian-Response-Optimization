@@ -10,7 +10,7 @@ This project was developed for the Doctors Without Borders (DWB) track as part o
 - **Risk Assessment for Worker Placement:** Identify safe regions for deployment and highlight areas requiring caution to support DWB's strategic planning.
 - **Data-Driven Early Warning System:** Build a robust system to provide timely insights into conflict escalation, enabling proactive resource distribution.
 
-## Interactive Maps
+## Real-Time Interactive Maps
 [Monthly Conflict Events by Country and Year](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/monthly_conflict_events.html)<br>
 [Conflict Density Overtime](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/conflict_density.html)<br>
 
