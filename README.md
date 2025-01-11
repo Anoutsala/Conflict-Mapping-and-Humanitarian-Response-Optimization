@@ -11,7 +11,7 @@ This project was developed for the Doctors Without Borders (DWB) track as part o
 - **Data-Driven Early Warning System:** Build a robust system to provide timely insights into conflict escalation, enabling proactive resource distribution.
 
 ## Real-Time Interactive Maps
-[Monthly Conflict Events by Country and Year](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/monthly_conflict_events.html)<br>
+[Monthly Conflict Events by Country and Year](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/monthly_conflict_events.html): This interactive map visualizes the monthly distribution of conflict events by country over time, using a choropleth to display the intensity of events with a color gradient. Users can explore changes across different months and years through an animation slider, providing insights into temporal and spatial conflict trends.<br>
 [Conflict Density Overtime](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/conflict_density.html)<br>
 
 [Monthly Fatalities Density Overtime](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/monthly_fatalities.html)<br>
