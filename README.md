@@ -15,8 +15,8 @@ This project was developed for the Doctors Without Borders (DWB) track as part o
 [Conflict Density Overtime](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/conflict_density.html)<br>
 
 [Monthly Fatalities Density Overtime](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/monthly_fatalities.html)<br>
+[Fatality Density Over Time](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/fatality_density.html)<br>
 
 [Percentage Change in Monthly Conflict Events by Country and Year](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/percent_change_events.html)<br>
-
 [Percentage Change in Monthly Fatalities by Country and Year](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/percent_change_fatalities.html)
 
