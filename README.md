@@ -20,7 +20,7 @@ This project was developed for the Doctors Without Borders (DWB) track as part o
 
 ## Findings
 ### Markov models
-![Markov models](next_most_likely_actor.png)
+![Markov models](img/next_most_likely_actor.png)
 - **Actor Transition Probabilities:** We calculated the likelihood of transitions between actors in conflict events, revealing patterns of collaboration or succession within countries.  
 - **Predictive Insights:** The model identifies the most likely next actors in conflict sequences, providing actionable predictions for future events.
 #### Implications
