@@ -18,3 +18,5 @@ This project was developed for the Doctors Without Borders (DWB) track as part o
 - **[Percentage Change in Monthly Conflict Events](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/percent_change_events.html)**: A choropleth map showing the percentage change in conflict events by country over time, with a color gradient indicating decreases (blue) and increases (red).
 - **[Percentage Change in Monthly Fatalities by Country and Year](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/percent_change_fatalities.html)**: A choropleth map illustrating the percentage change in fatalities by country over time, with a color gradient highlighting decreases (blue) and increases (red).
 
+## Findings
+Markov models to predict the next most likely actor per country
