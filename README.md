@@ -19,12 +19,9 @@ This project was developed for the Doctors Without Borders (DWB) track as part o
 - **[Percentage Change in Monthly Fatalities by Country and Year](https://anoutsala.github.io/Conflict-Mapping-and-Humanitarian-Response-Optimization/conflict_visualizations/percent_change_fatalities.html)**: A choropleth map illustrating the percentage change in fatalities by country over time, with a color gradient highlighting decreases (blue) and increases (red).
 
 ## Findings
-###Markov models to predict the next most likely actor per country
-
+### Markov models to predict the next most likely actor per country
 - **Actor Transition Probabilities:** Using Markov models, we calculated the likelihood of transitions between actors in conflict events, revealing patterns of collaboration or succession within countries.  
 - **Predictive Insights:** The model identifies the most likely next actors in conflict sequences, providing actionable predictions for future events.
-
 #### Implications
-
 - **Resource Allocation:** Anticipating high-probability transitions aids in more effective deployment of resources and interventions.  
 - **Strategic Planning:** Understanding actor dynamics supports tailored strategies to address conflict patterns.
