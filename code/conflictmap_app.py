@@ -4,7 +4,7 @@ import plotly.express as px
 import smtplib
 from email.message import EmailMessage
 
-data = pd.read_csv("/Users/anoutsala/Documents/datathon_2024/records.csv")
+data = pd.read_csv("/Users/anoutsala/Documents/datathon_2024/2018-01-01-2024-11-16.csv")
 
 st.title("Conflict Zones and Safe Areas")
 
